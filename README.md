@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Alura](https://www.alura.com.br/?_gl=1*10djor*_ga*MTQ3OTkzOTAyOS4xNzEzODkwMDk3*_ga_1EPWSW3PCS*MTcxNTI2NDI4Ny45LjEuMTcxNTI2NTMxNS4wLjAuMA..*_fplc*MyUyRnpLTkE1aHglMkI1SnlHMzRIQmVkekRGJTJGQnJZT2Zka1VZempCJTJGMlFBYW5NRHlsY1hDVmtGSyUyRmliNDNYV0ZxQnVMS1p1JTJGUkpCQWJMZEw0Q1ZLVlBWQU9YUzdQR2R0YW1OdVBYZnlid1dCSVVPb0VESVA5ZUdVTDd6a21RSmt3JTNEJTNE)
 
-- 👯 I’m looking to collaborate on [CLUBE REGATAS DO FLAMENGO](https://www.flamengo.com.br/)
+- 👯 collaborate on [CLUBE REGATAS DO FLAMENGO](https://www.flamengo.com.br/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
