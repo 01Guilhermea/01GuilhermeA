@@ -13,12 +13,4 @@ Boas vindas ao meu perfil 💙💙
 ![](https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif)
 
 
-  if [ $RUNZSH = no ]; then
-    echo "${FMT_YELLOW}Run zsh to try it out.${FMT_RESET}"
-    exit
-  fi
 
-  exec zsh -l
-}
-
-main "$@"
