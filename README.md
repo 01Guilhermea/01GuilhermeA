@@ -9,7 +9,6 @@ Boas vindas ao meu perfil 💙💙
 
 • Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![](https://aleen42.github.io/badges/src/photoshop.svg)
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
