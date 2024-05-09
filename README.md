@@ -11,3 +11,5 @@ Boas vindas ao meu perfil 💙💙
 
 
 ![](https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif)
+
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended
