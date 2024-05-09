@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01guilhermea&show_icons=true&locale=en" alt="01guilhermea" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01guilhermea&" alt="01guilhermea" /></p>
+
+![](https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif)
