@@ -8,7 +8,7 @@ Boas vindas ao meu perfil 💙💙
 • Estou me desenvolvendo na linguagem JavaScript
 
 • Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-
+![](https://aleen42.github.io/badges/src/photoshop.svg)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ![](https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif)
