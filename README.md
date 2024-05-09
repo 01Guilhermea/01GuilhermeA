@@ -10,5 +10,5 @@ Boas vindas ao meu perfil 💙💙
 • Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 
-![]([https://media.tenor.com/w8yC1D_9vJIAAAAd/smoking-that.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Fgifs%2F330907-follow-the-white-rabbit-the-matrix-gif&psig=AOvVaw2kkntbLB7-UaceU9stfQwG&ust=1715351496335000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCJCuvbjkgIYDFQAAAAAdAAAAABCHAQ))
+![]([https://media.tenor.com/w8yC1D_9vJIAAAAd/smoking-that.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Fgifs%2F330907-follow-the-white-rabbit-the-matrix-gif&psig=AOvVaw2kkntbLB7-UaceU9stfQwG&ust=1715351496335000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCJCuvbjkgIYDFQAAAAAdAAAAABCHAQ)
 
